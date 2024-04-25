@@ -1,0 +1,15 @@
+C:\Users\ManjuDhanasekaran\OneDrive - Syncfusion\Desktop\QuestionFile_20240418091556MovieTicketBooking\MovieTicketBooking\bin\Debug\net7.0\MovieTicketBooking.exe
+C:\Users\ManjuDhanasekaran\OneDrive - Syncfusion\Desktop\QuestionFile_20240418091556MovieTicketBooking\MovieTicketBooking\bin\Debug\net7.0\MovieTicketBooking.deps.json
+C:\Users\ManjuDhanasekaran\OneDrive - Syncfusion\Desktop\QuestionFile_20240418091556MovieTicketBooking\MovieTicketBooking\bin\Debug\net7.0\MovieTicketBooking.runtimeconfig.json
+C:\Users\ManjuDhanasekaran\OneDrive - Syncfusion\Desktop\QuestionFile_20240418091556MovieTicketBooking\MovieTicketBooking\bin\Debug\net7.0\MovieTicketBooking.dll
+C:\Users\ManjuDhanasekaran\OneDrive - Syncfusion\Desktop\QuestionFile_20240418091556MovieTicketBooking\MovieTicketBooking\bin\Debug\net7.0\MovieTicketBooking.pdb
+C:\Users\ManjuDhanasekaran\OneDrive - Syncfusion\Desktop\QuestionFile_20240418091556MovieTicketBooking\MovieTicketBooking\obj\Debug\net7.0\MovieTicketBooking.csproj.AssemblyReference.cache
+C:\Users\ManjuDhanasekaran\OneDrive - Syncfusion\Desktop\QuestionFile_20240418091556MovieTicketBooking\MovieTicketBooking\obj\Debug\net7.0\MovieTicketBooking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ManjuDhanasekaran\OneDrive - Syncfusion\Desktop\QuestionFile_20240418091556MovieTicketBooking\MovieTicketBooking\obj\Debug\net7.0\MovieTicketBooking.AssemblyInfoInputs.cache
+C:\Users\ManjuDhanasekaran\OneDrive - Syncfusion\Desktop\QuestionFile_20240418091556MovieTicketBooking\MovieTicketBooking\obj\Debug\net7.0\MovieTicketBooking.AssemblyInfo.cs
+C:\Users\ManjuDhanasekaran\OneDrive - Syncfusion\Desktop\QuestionFile_20240418091556MovieTicketBooking\MovieTicketBooking\obj\Debug\net7.0\MovieTicketBooking.csproj.CoreCompileInputs.cache
+C:\Users\ManjuDhanasekaran\OneDrive - Syncfusion\Desktop\QuestionFile_20240418091556MovieTicketBooking\MovieTicketBooking\obj\Debug\net7.0\MovieTicketBooking.dll
+C:\Users\ManjuDhanasekaran\OneDrive - Syncfusion\Desktop\QuestionFile_20240418091556MovieTicketBooking\MovieTicketBooking\obj\Debug\net7.0\refint\MovieTicketBooking.dll
+C:\Users\ManjuDhanasekaran\OneDrive - Syncfusion\Desktop\QuestionFile_20240418091556MovieTicketBooking\MovieTicketBooking\obj\Debug\net7.0\MovieTicketBooking.pdb
+C:\Users\ManjuDhanasekaran\OneDrive - Syncfusion\Desktop\QuestionFile_20240418091556MovieTicketBooking\MovieTicketBooking\obj\Debug\net7.0\MovieTicketBooking.genruntimeconfig.cache
+C:\Users\ManjuDhanasekaran\OneDrive - Syncfusion\Desktop\QuestionFile_20240418091556MovieTicketBooking\MovieTicketBooking\obj\Debug\net7.0\ref\MovieTicketBooking.dll
